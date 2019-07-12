@@ -12,6 +12,7 @@ namespace william
         {
             int a;
             Console.WriteLine("William");
+            Console.WriteLine("William");
             Console.ReadLine();
             Console.WriteLine("Macaco Soup");
             Console.ReadLine();
