@@ -10,6 +10,7 @@ namespace william
     {
         static void Main(string[] args)
         {
+            int b;
             Console.WriteLine("William");
             Console.WriteLine("William");
             Console.ReadLine();
