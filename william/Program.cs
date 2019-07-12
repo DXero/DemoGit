@@ -11,12 +11,14 @@ namespace william
         static void Main(string[] args)
         {
             int a;
+            int b;
             Console.WriteLine("William");
-            Console.WriteLine("William");
+            Console.WriteLine("William"); 
             Console.ReadLine();
             Console.WriteLine("Macaco Soup");
             Console.ReadLine();
-
+            Console.WriteLine("Macaco Soup");
+            Console.ReadLine();
         }
     }
 }
