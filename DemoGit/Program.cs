@@ -10,7 +10,8 @@ namespace DemoGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola mundo");
+            Console.WriteLine("Mensaje desde Test");
+            Console.ReadLine();
         }
     }
 }
