@@ -13,9 +13,9 @@ namespace william
             int a;
             int b;
             Console.WriteLine("William");
-            Console.WriteLine("William"); 
+            Console.WriteLine("OMG"); 
             Console.ReadLine();
-            Console.WriteLine("Macaco Soup");
+            Console.WriteLine("no ok");
             Console.ReadLine();
             Console.WriteLine("Macaco Soup");
             Console.ReadLine();
