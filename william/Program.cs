@@ -11,6 +11,7 @@ namespace william
         static void Main(string[] args)
         {
             Console.WriteLine("William");
+            Console.WriteLine("William");
             Console.ReadLine();
 
         }
